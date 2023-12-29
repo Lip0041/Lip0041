@@ -9,5 +9,3 @@ Lip0041/Lip0041 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lip0041&layout=compact&count_private=true&show_icons=true)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lip0041&show_icons=true&count_private=true&hide=contribs,prs)
